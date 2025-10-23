@@ -1,4 +1,5 @@
-# T-Shirt-Clone-Webpage <h1>(Farhan Khan)</h1>
+# T-Shirt-Clone-Webpage 
+Author:- Farhan Khan
 <br>
 <h3>🧢 T-Shirt Clone Webpage 👕<br><br>
 ✨ A fully responsive and modern clone of a premium T-Shirt brand’s website — beautifully designed with HTML, CSS, and JavaScript.<br>
