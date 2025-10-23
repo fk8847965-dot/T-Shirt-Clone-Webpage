@@ -1,6 +1,6 @@
 # T-Shirt-Clone-Webpage
 <br>
-<h3>🧢 T-Shirt Clone Webpage 👕<br>
+<h3>🧢 T-Shirt Clone Webpage 👕<br><br>
 ✨ A fully responsive and modern clone of a premium T-Shirt brand’s website — beautifully designed with HTML, CSS, and JavaScript.<br>
 🚀 Smooth animations, clean UI, and pixel-perfect layout for a realistic e-commerce feel.<br>
 💻 Built with passion and creativity by Farhan Khan.<br><br>
